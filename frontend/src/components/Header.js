@@ -8,7 +8,7 @@ const Logo = styled.div`
 const Header = () => {
     return(
         <nav style={{width:"100wv"}} class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="#"><Logo />F-lower</a>
+            <b><a class="navbar-brand" href="#" style={{color:"#dd6d22"}}>F-lower</a></b>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>

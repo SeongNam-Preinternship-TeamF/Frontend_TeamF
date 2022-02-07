@@ -67,7 +67,7 @@ const Main = (props) => {
         <Loading />
       ) : (
         <button onclick={onSubmit} className="result">
-          찾아보기
+          결과 보기
         </button>
       )}
     </div>
