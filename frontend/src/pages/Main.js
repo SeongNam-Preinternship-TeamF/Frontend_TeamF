@@ -44,7 +44,7 @@ const Main = (props) => {
 
   return (
     <div className="margin">
-      <div className="banner">배너 이미지</div>
+      <div className="banner"></div>
       <div className="subtitle"> 자신의 꽃 사진을 업로드 해주세요.</div>
       {img == null ? <p></p> : <img src={fileUrl} />}
       <label

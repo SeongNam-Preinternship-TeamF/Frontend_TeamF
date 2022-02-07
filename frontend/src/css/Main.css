@@ -9,8 +9,9 @@
     margin: 0 auto;
     margin-top: 7rem;
     border-radius: 2rem;
-    background-color: #dbdbdb;
     box-shadow: 3px 3px 4px #a4a4a4;
+    background-image: url(../../public/images/Flower.png);
+    background-size: cover;
 }
 .subtitle{
     width: 18rem;
